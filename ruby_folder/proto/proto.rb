@@ -1,8 +1,4 @@
-
-
 require './unmo'
-
-
 
 def prompt(unmo)
 	return unmo.name + ':' + unmo.responder_name + '> '
